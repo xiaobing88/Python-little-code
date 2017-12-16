@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+ <employees>   
+  <employee>   
+    <name>linux</name>  
+    <age>30</age>  
+  </employee>  
+  
+  <employee>   
+    <name>windows</name>  
+    <age>20</age>  
+  </employee>  
+ </employees> 
