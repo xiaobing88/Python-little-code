@@ -1,0 +1,16 @@
+User-agent: Baiduspider
+Allow: .jpeg$
+Allow: .gif$
+Allow: .png$
+Allow: .bmp$
+User-agent: Googlebot
+Allow: .jpeg$
+Allow: .gif$
+Allow: .png$
+Allow: .bmp$
+User-agent: *
+Disallow: .jpg$
+Disallow: .jpeg$
+Disallow: .gif$
+Disallow: .png$
+Disallow: .bmp$
